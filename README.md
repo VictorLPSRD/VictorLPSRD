@@ -34,9 +34,8 @@
 </br>
 </br>
     
-  
- <h1 align="center">Redes Sociais</h1>
-<p>
+<h1 align="center">Redes Sociais</h1>
+<p style="text-align: center;">
     <a href="https://github.com/VictorLPSRD" target="_blank" rel="GitHub">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
