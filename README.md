@@ -13,6 +13,7 @@
 <br>
 
 <p>
+    <p style="text-align: center;">
     <a href="" target="_blank" rel="Python">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     </a>
@@ -25,12 +26,13 @@
     <a href="" target="_blank" rel="MySQL">
         <img src="https://img.shields.io/badge/mysql-563D7C?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
-  
-  <a href="" target="_blank" rel="MariaDB">
+    <a href="" target="_blank" rel="MariaDB">
         <img src="https://img.shields.io/badge/mariadb-FF6347?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
     </a>
+    <a href="" target="_blank" rel="Canva">
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    </a>
 </p>
-
 </br>
 </br>
     
