@@ -1,5 +1,10 @@
-## Victor Aqui <3
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=<Olá,+Meu+Nome+é+Jonathan+Felix>;)](https://git.io/typing-svg)
+
+</br>
+</br>
+</br>
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorLPSRD&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
