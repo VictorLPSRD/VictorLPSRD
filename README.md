@@ -14,9 +14,6 @@
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="Python">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-    </a>
     <a href="" target="_blank" rel="Python">
         <img src="https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
