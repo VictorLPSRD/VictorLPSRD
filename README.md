@@ -35,13 +35,16 @@
 </br>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <p>
+ <h1 align="center">Redes Sociais</h1>
+<p>
     <a href="https://github.com/VictorLPSRD" target="_blank" rel="GitHub">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/v%C3%ADctor-rodrigues-600151262/" target="_blank" rel="Linkedin">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/vitu_lp/" target="_blank" rel="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>
   
