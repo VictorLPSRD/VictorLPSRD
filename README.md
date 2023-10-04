@@ -32,6 +32,9 @@
     <a href="" target="_blank" rel="Canva">
         <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
     </a>
+    <a href="" target="_blank" rel="javascript">
+        <img src="https://img.shields.io/badge/javascript-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    </a>
 </p>
 </br>
 </br>
