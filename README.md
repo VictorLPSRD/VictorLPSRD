@@ -8,12 +8,7 @@
 
 ## 👋Sobre mim 
 </br>
-> 📌Sou de Recife-PE tenho 22 aanos 
->
-> 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas no 4 periodos
-> 
-> 🗺️ Através do dia a dia venho estudando e desenvolvendo aplicações para melhor contrubuição na comunidade. 
-> 
+> 📌Sou de Recife, Pernambuco, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º período. No meu dia a dia, venho estudando e desenvolvendo aplicações para contribuir de forma mais efetiva na comunidade.
 
 </br>
 </br>
