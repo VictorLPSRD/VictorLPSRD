@@ -8,8 +8,13 @@
 <div>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?    
   username=VictorLPSRD&layout=compact&langs_count=16&theme=midnight-purple"/>
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VictorLPSRD
-&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+  <a href="https://github.com/Brumidori">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLPSRD&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+    
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?    
+  username=VictorLPSRD&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>  
 <br>
 <p>
