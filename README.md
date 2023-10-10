@@ -24,7 +24,7 @@
 </div>
 
 
-### Contacts
+### 🌎 Redes Sociais
 <div>
   <a href="https://www.linkedin.com/in/v%C3%ADctor-rodrigues-600151262/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
