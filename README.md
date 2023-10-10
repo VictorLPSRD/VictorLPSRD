@@ -11,7 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLPSRD&layout=compact&theme=transparent" style="height: 200px; width: 40%;" />
 </div>
 
-##Languages
+
+## Languages
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
@@ -22,8 +23,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
 </div>
 
-###Contacts
 
+### Contacts
 <div>
   <a href="https://www.linkedin.com/in/v%C3%ADctor-rodrigues-600151262/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
