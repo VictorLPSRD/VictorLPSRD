@@ -32,4 +32,4 @@
  <a href = "victorrodrigues9463@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/BreadcrumbsVictorLPSRD/count.svg"/></p>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
