@@ -6,6 +6,21 @@
 </br>
 </br>
 
+## 👋Sobre mim 
+</br>
+> 📌Sou de Recife-PE tenho 22 aanos 
+>
+> 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas no 4 periodos
+> 
+> 🗺️ Através do dia a dia venho estudando e desenvolvendo aplicações para melhor contrubuição na comunidade. 
+> 
+
+
+
+
+</br>
+</br>
+
 ## My Stats
 
 <div align="center">
