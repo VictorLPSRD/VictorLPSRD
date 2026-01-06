@@ -17,8 +17,11 @@ Atualmente, dedico meu dia a dia ao estudo e desenvolvimento de aplicações, bu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorLPSRD&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLPSRD&layout=compact&theme=transparent"/>
+  <img src="https://streak-stats.demolab.com?user=VictorLPSRD&theme=transparent&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorLPSRD&theme=transparent" />
 </div>
 
 ---
