@@ -8,20 +8,35 @@
 
 📍 **Recife, Pernambuco**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Apaixonado por tecnologia, automação e desenvolvimento de soluções
+🚀 Desenvolvedor focado em criar soluções eficientes, automações e aplicações escaláveis.
 
-Atualmente, dedico meu dia a dia ao estudo e desenvolvimento de aplicações, buscando evoluir tecnicamente e contribuir de forma prática com a comunidade e os projetos dos quais participo.
+No meu dia a dia, estudo e desenvolvo aplicações que geram impacto real, sempre buscando evoluir tecnicamente e contribuir com a comunidade tech.
 
 ---
 
-## 📊 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3"/>
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorLPSRD&theme=transparent" />
+</div>
+
+---
+
+## 🧠 Linguagens com Repositórios Ativos
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorLPSRD&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorLPSRD&theme=transparent" />
+</div>
+
+---
+
+## 🔥 Consistência de Commits
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VictorLPSRD&theme=transparent&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorLPSRD&theme=transparent" />
 </div>
 
 ---
@@ -53,6 +68,12 @@ Atualmente, dedico meu dia a dia ao estudo e desenvolvimento de aplicações, bu
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## 💡 Frase que te representa
+
+> *“Transformando problemas reais em soluções simples com código.”*
 
 ---
 
