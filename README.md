@@ -36,8 +36,9 @@ No meu dia a dia, estudo e desenvolvo aplicações que geram impacto real, sempr
 ## 🔥 Consistência de Commits
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorLPSRD&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorLPSRD&theme=default&hide_border=true" />
 </div>
+
 
 ---
 
