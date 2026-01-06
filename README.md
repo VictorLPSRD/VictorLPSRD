@@ -33,11 +33,12 @@ No meu dia a dia, estudo e desenvolvo aplicações que geram impacto real, sempr
 
 ---
 
-## 🔥 Consistência de Commits
+## 🔥 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorLPSRD&theme=default&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorLPSRD&theme=github-compact&hide_border=true" />
 </div>
+
 
 
 ---
